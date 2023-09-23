@@ -1,6 +1,6 @@
 - 👋 Olá mundo , eu sou @Matheus-Nardi
 - 👀 Eu sou interessado em programar , estudar , ir à academia e ler livros 
-- 🌱 Estudando c# 
+- 🌱 Estudando c# e futuramente .NET MAUI
 - 📫 Fale comigo no email : matheuznardi@gmail.com
 ##
 <div style="display: inline_block"><br>

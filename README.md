@@ -2,12 +2,13 @@
 - 👀 Eu sou interessado em programar , estudar , ir à academia e ler livros 
 - 🌱 Estudando c# 
 - 📫 Fale comigo no email : matheuznardi@gmail.com
+- <img align="center" alt="-CodeWars" height="30" width="40" src="https://www.codewars.com/users/Matheus-Nardi/badges/large">
 ##
 <div style="display: inline_block"><br>
  <img align="center" alt="-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  <img align="center" alt="-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="-CodeWars" height="30" width="40" src="https://www.codewars.com/users/Matheus-Nardi/badges/small">
+ 
 </div>
 
 ##

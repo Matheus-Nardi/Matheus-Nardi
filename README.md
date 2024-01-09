@@ -1,6 +1,6 @@
 - 👋 Olá mundo , eu sou @Matheus-Nardi
 - 👀 Eu sou interessado em estudar e ir à academia 
-- 🌱 Estudando c# , html e css e um javinha na faculdade
+- 🌱 Estudando c# e um javinha na faculdade
 - 📫 Fale comigo no email : matheuznardi@gmail.com
 - <img align="center" alt="-CodeWars" height="auto" width="auto" src="https://www.codewars.com/users/Matheus-Nardi/badges/large">
 ##

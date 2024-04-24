@@ -1,12 +1,13 @@
-- 👋 Olá mundo , eu sou @Matheus-Nardi
-- 👀 Eu sou interessado em estudar e ir à academia 
-- 🌱 Estudando c# e um javinha na faculdade
-- 📫 Fale comigo no email : matheuznardi@gmail.com
-- <img align="center" alt="-CodeWars" height="auto" width="auto" src="https://www.codewars.com/users/Matheus-Nardi/badges/large">
+- 👋 Olá mundo , eu sou @Matheus-Nardi.
+- 👀 Eu sou interessado em estudar , ler e correr.
+- 🌱 Estudando java <3.
+- 📫 Fale comigo no email : matheuznardi@gmail.com.
+
 ##
 <div style="display: inline_block"><br>
  <img align="center" alt="-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+          
 </div>
 
 ##

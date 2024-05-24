@@ -1,5 +1,5 @@
 - 👋 Olá mundo , eu sou @Matheus-Nardi.
-- 👀 Eu sou interessado em estudar , ler e correr.
+- 👀 Eu sou interessado em programação e no desenvolvimento de bons hábitos.
 - 🌱 Estudando java <3.
 - 📫 Fale comigo no email : matheuznardi@gmail.com.
 

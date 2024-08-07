@@ -1,6 +1,5 @@
-# Olá Mundo! 👋
+# Olá Mundo! Eu sou Matheus Nardi 👋
 
-Eu sou @Matheus-Nardi.
 
 ## Sobre Mim
 - 👀 Interessado em programação e no desenvolvimento de bons hábitos.
